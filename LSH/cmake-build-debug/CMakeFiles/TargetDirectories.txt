@@ -1,0 +1,3 @@
+/Users/sofatitkova/CLionProjects/LSH/cmake-build-debug/CMakeFiles/LSH.dir
+/Users/sofatitkova/CLionProjects/LSH/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sofatitkova/CLionProjects/LSH/cmake-build-debug/CMakeFiles/rebuild_cache.dir
